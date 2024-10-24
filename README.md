@@ -9,4 +9,4 @@
 - C++ | C#
 
 ### Connect 🔗
-- Discord: swiss#7176
+- Discord: swiss
