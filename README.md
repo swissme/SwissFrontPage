@@ -1,18 +1,12 @@
-### Hi there, I'm Swiss 🤝
+# Hi there, I'm Swiss 🤝
 
-<br />
+### Developer | Always Learning 📖
 
-## I'm a developer for a few different languages and still learning! 📖
+---
 
 ### Languages 🌐
-- Java
-- Javascript
-- HTML
-- CSS
-- C++
-- C#
+- Java | JavaScript | HTML | CSS
+- C++ | C#
 
-### Connect with me 🔗
-- swiss#7176 [ Discord ]
-
-<br />
+### Connect 🔗
+- Discord: swiss#7176
